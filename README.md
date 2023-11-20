@@ -88,10 +88,6 @@ Here's a screenshot from the Kibana dashboard:
 
 ![Kibana screenshot](img/rtd-elastic.png)
 
-See the feed in action:
-
-[![Real-time vehicle telemetry analysis with Kafka Streams](https://img.youtube.com/vi/yIFOCYy7Wmc/0.jpg)](https://www.youtube.com/watch?v=yIFOCYy7Wmc)
-
 
 ## build/run
 
